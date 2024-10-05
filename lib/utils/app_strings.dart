@@ -1,0 +1,55 @@
+class AppString {
+  static const String enterYourEmail = "Enter Your Email";
+  static const String enterYourPassword = "Enter Your Password";
+  static const String forgotPassword = "Forgot Password?";
+  static const String LOGIN = "LOGIN";
+  static const String dontHaveAnAccount = "Don’t have an Account?";
+  static const String  signup = " Sign up";
+  static const String  asUser = "As User";
+  static const String  asEmployee = "As Employee";
+  static const String  enterYourName  = "Enter your name ";
+  static const String  reEnterYourPassword  = "Re-enter Your Password";
+  static const String  verifyEmail  = "Verify E-mail";
+  static const String  alreadyHaveAnAccount  = "Already have an account?";
+  static const String   signIn  = " Sign in";
+  static const String   oTPVerify  = "OTP Verify";
+  static const String   weHaveSentAverification  = "We have sent a verification code to your email address. Please check and enter the code here.";
+  static const String   didNtRecieveTheCode  = "Didn’t recieve the code?";
+  static const String   resend  = "Resend";
+  static const String   verify  = "Verify";
+  static const String   thankYou  = "Thank You";
+  static const String   done  = "Done";
+  static const String   recovery  = "Recovery";
+  static const String   gETOTP  = "GET OTP";
+  static const String   enterRecoveryEmail  = "Enter recovery Email";
+  static const String   enterNewPassword  = "Enter New Password";
+  static const String   reenterNewPassword  = "Re-enter New Password";
+  static const String   confirm  = "Confirm";
+  static const String   requestService  = "Request Service";
+  static const String   viewAll  = "View all";
+  static const String   appointments  = "Appointments";
+  static const String   service  = "Service";
+  static const String   serviceDetails  = "Service Details";
+  static const String   bookNow  = "Book Now";
+  static const String   applyForm  = "Apply Form";
+  static const String   submit  = "Submit";
+  static const String   messages  = "Messages";
+  static const String   workDetails  = "Work Details";
+  static const String   workStatus  = "Work Status";
+  static const String   serviceTechInformation  = "Service tech’s Information";
+  static const String   jobDetails  = "Job Details";
+  static const String   profile  = "Profile";
+  static const String   personalInformation  = "Personal Information";
+  static const String   settings  = "Settings";
+  static const String   logOut  = "Log Out";
+  static const String   updateProfile  = "Update Profile";
+  static const String   changePassword  = "Change Password";
+  static const String   privacyPolicy  = "Privacy Policy";
+  static const String   termsConditions  = "Terms & Conditions";
+  static const String   aboutUs  = "About Us";
+  static const String   enterOldPassword  = "Enter Old Password";
+  static const String   areYouSureToLogoutYourProfile  = "Are you sure to logout your profile?";
+  static const String   schedule  = "Schedule";
+
+}
+
